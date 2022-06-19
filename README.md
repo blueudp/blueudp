@@ -1,8 +1,8 @@
-# Hi there, I'm Eduardo - aka [blueudp] 👋 
+# Hi there, I'm Eduardo - aka [blueudp] <img src="https://danielmiessler.com/images/Glider_clarince63.png" alt="drawing" width="200"/>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/blueudp?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/user?screen_name=blueudp)
 
-# 💫 About me
+# About me
 
 - 🔭 I’m currently working on [Hispasec Sistemas S.L](https://hispasec.com).
 
