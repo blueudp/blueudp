@@ -3,7 +3,7 @@
 ## RS
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/blueudp2)
-
+[![Twitter](https://img.shields.io/twitter/follow/blueudp?style=social)](https://twitter.com/blueudp)
 <!--
 **blueudp/blueudp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
